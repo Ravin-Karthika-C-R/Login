@@ -1,0 +1,32 @@
+body{
+    background-image: url(./img/pic4.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    
+    margin: auto;
+    width:700px;
+    display: flex;
+    
+
+}
+form{
+    /* background-image: linear-gradient(to right, rgb(67, 59, 8), rgb(241, 166, 75)); */
+    /* background-color:rgb(241, 166, 75); */
+    background-color: transparent;
+    
+    
+}
+.div1{
+    width: 500px;
+    margin: auto;
+    /* margin-top: 2%; */
+    color: rgb(172, 172, 241);
+}
+.btn{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    margin-left: 200px;
+}

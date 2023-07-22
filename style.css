@@ -1,11 +1,32 @@
+body{
+    background-image: url('./img/pic5.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .container{
-    background-color: rgb(184, 96, 65);
+    margin: auto;
+    width:700px;
+    display: flex;
+    background-color: transparent;
     text-align: center;
     text-shadow: 2px;
     
 }
 form{
-    color: rgb(0, 0, 0);
+    color: rgb(250, 250, 250);
     text-align: center;
+    
+    
+}
+.div1{
+    width: 500px;
+    margin: auto;
+    /* margin-top: 2%; */
+    color: rgb(172, 172, 241);
+}
+.btn{
+    justify-content: center;
+    
+    margin: auto;
     
 }
